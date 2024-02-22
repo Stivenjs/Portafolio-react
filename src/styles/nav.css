@@ -1,0 +1,8 @@
+.navbar {
+    display: flex; /* Hace que los elementos estén en línea horizontalmente */
+  }
+  
+  .nav-buttons {
+    margin-right: 10px; /* Agrega separación entre los botones */
+  }
+  

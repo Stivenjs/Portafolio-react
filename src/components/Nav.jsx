@@ -1,3 +1,5 @@
+import '../styles/nav.css';
+
 function Nav({ Navbutton }) {
   return (
     <div className="navbar">
