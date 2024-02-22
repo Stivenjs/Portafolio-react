@@ -2,7 +2,7 @@ import '../styles/nav.css';
 
 function Nav({ Navbutton }) {
   return (
-    <div className="navbar">
+    <div className="home">
       <button className="nav-buttons">{Navbutton}</button>
     </div>
   );
