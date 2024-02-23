@@ -1,9 +1,8 @@
-import '../styles/nav.css';
 
 function Nav({ Navbutton }) {
   return (
-    <div className="home">
-      <button className="nav-buttons">{Navbutton}</button>
+    <div>
+      <button>{Navbutton}</button>
     </div>
   );
 }
