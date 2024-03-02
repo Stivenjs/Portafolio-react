@@ -1,6 +1,6 @@
 import Nav from "./components/Nav";
 import Buttondownload from "./components/Buttondownload";
-import "./styles/nav.css";
+import "./styles/index.css";
 
 function App() {
   return (
